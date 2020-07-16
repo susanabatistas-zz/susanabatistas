@@ -7,7 +7,7 @@ function fetchGoodreads(callback) {
   fetch(URL_GOODREADS)
     .then(response => response.json())
     .then(data => callback(null, data))
-      .catch(error => callback(error, null))
+    .catch(error => callback(error, null))
 }
 
 function returnBookInfo(content) {
@@ -20,7 +20,10 @@ function returnBookInfo(content) {
 function updateReadme(book) {
   const readme = fs.readFileSync(README_FILE, 'utf-8')
   const readingInfo = returnBookInfo(book)
-  const newContent = readme.replace(/Reading.*/, 'Reading ' + readingInfo)
+
+  if (readme.indexOf(readingInfo) >= 0) return
+
+  const newContent = readme.replace(/(?<=Reading ).+/, readingInfo)
   fs.writeFileSync(README_FILE, newContent, 'utf-8')
 }
 
