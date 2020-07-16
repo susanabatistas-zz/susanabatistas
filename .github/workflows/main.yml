@@ -12,5 +12,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '10.x'
+    - name: Install dependency
+      run: npm install node-fetch --save
     - name: Update readme
       run: node main.js
