@@ -1,0 +1,20 @@
+{
+  "name": "susanabatistas",
+  "version": "1.0.0",
+  "description": "I'm a developer from Brazil, currently working [@HuggyDigital](https://github.com/HuggyDigital).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "repository": "git+https://github.com/susanabatistas/susanabatistas.git",
+  "keywords": [],
+  "author": "susanabatistas <silva.susanabatista@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susanabatistas/susanabatistas/issues"
+  },
+  "homepage": "https://github.com/susanabatistas/susanabatistas#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
