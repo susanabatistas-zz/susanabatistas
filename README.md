@@ -7,4 +7,4 @@ Follow me on [Twitter](https://twitter.com/susanabatistas).
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [Kindred](https://www.goodreads.com/book/show/40378932-kindred) by Octavia E. Butler - string test.
+- Reading [Kindred](https://www.goodreads.com/book/show/40378932-kindred) by Octavia E. Butler.
