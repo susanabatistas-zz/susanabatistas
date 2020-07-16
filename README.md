@@ -1,6 +1,8 @@
-# Hi there, I'm Susana Batista :woman_technologist:
+# Susana Batista
 
-I'm a developer from Brazil, currently working [@HuggyDigital](https://github.com/HuggyDigital).
+## About :woman_technologist:
+
+Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https://github.com/HuggyDigital).
 
 Follow me on [Twitter](https://twitter.com/susanabatistas).
 
