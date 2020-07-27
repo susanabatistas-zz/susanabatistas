@@ -9,4 +9,4 @@ Follow me on [Twitter](https://twitter.com/susanabatistas).
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [Kindred](https://www.goodreads.com/book/show/40378932-kindred) by Octavia E. Butler.
+- Reading [Mulheres, raça e classe](https://www.goodreads.com/book/show/34119228-mulheres-ra-a-e-classe) by Angela Y. Davis.
