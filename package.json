@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/susanabatistas/susanabatistas#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
