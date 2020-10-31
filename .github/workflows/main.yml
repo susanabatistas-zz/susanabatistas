@@ -15,7 +15,7 @@ jobs:
       with:
         node-version: '10.x'
     - name: Install dependency
-      run: npm install node-fetch --save
+      run: npm install cheerio request --save
     - name: Update readme
       run: node main.js
     - uses: stefanzweifel/git-auto-commit-action@v4
