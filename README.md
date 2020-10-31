@@ -9,4 +9,4 @@ Follow me on [Twitter](https://twitter.com/susanabatistas).
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [Mulheres, raça e classe](https://www.goodreads.com/book/show/34119228-mulheres-ra-a-e-classe) by Angela Y. Davis.
+- Reading [A divina comédia](https://www.goodreads.com/book/show/38190780-a-divina-com-dia) by Dante Alighieri.
