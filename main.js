@@ -1,35 +1,29 @@
-const fetch = require("node-fetch")
+const request = require('request')
+const cheerio = require('cheerio')
 const fs = require('fs')
-const URL_GOODREADS = 'https://currently-reads.now.sh/reading/30739526/json'
-const README_FILE = 'README.md';
 
-function fetchGoodreads(callback) {
-  fetch(URL_GOODREADS)
-    .then(response => response.json())
-    .then(data => callback(null, data))
-    .catch(error => callback(error, null))
+const goodreadsUrl = 'https://www.goodreads.com'
+const goodreadsProfileUrl = '/user/show/30739526-susana-batista'
+const goodreadsProfile = goodreadsUrl + goodreadsProfileUrl;
+const readmeFile = 'README.md';
+
+function updateReadme(bookInfo) {
+  const readme = fs.readFileSync(readmeFile, 'utf-8')
+
+  if (readme.indexOf(bookInfo) >= 0) return
+
+  const newContent = readme.replace(/(?<=Reading ).+/, bookInfo)
+  fs.writeFileSync(readmeFile, newContent, 'utf-8')
 }
 
-function returnBookInfo(content) {
-  let bookInfo = '[' + content.title + ']'
-  bookInfo += '(' + content.link + ')'
-  bookInfo += ' by ' + content.authors[0].author[0].name + '.'
-  return bookInfo
-}
-
-function updateReadme(book) {
-  const readme = fs.readFileSync(README_FILE, 'utf-8')
-  const readingInfo = returnBookInfo(book)
-
-  if (readme.indexOf(readingInfo) >= 0) return
-
-  const newContent = readme.replace(/(?<=Reading ).+/, readingInfo)
-  fs.writeFileSync(README_FILE, newContent, 'utf-8')
-}
-
-fetchGoodreads((error, data) => {
-  if (data) {
-    const book = data[0].book[0]
-    updateReadme(book)
+request(goodreadsProfile, (err, res, body) => {
+  if (res && body) {
+    const $ = cheerio.load(body)
+    let bookTitle = $('#currentlyReadingReviews .bookTitle').text()
+    let bookUrl = goodreadsUrl + $('#currentlyReadingReviews .bookTitle').attr('href')
+    let bookAuthor = $('#currentlyReadingReviews .authorName').text()
+    let bookInfo = '[' + bookTitle + '](' + bookUrl + ') by ' + bookAuthor + '.'
+    
+    updateReadme(bookInfo)
   }
 })
