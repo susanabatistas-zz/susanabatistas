@@ -2,7 +2,3 @@ name: Susana Batista
 title: null
 plugins:
   - jemoji
-remote_theme: riggraz/no-style-please
-
-theme_config:
-  appearance: "auto"
