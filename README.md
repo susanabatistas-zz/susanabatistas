@@ -9,4 +9,4 @@ Follow me on [Twitter](https://twitter.com/susanabatistas).
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [A divina comédia](https://www.goodreads.com/book/show/38190780-a-divina-com-dia) by Dante Alighieri.
+- Reading [A Queda](https://www.goodreads.com/book/show/27857450-a-queda) by Albert Camus.
