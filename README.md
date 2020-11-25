@@ -9,4 +9,4 @@ Follow me on [Twitter](https://twitter.com/susanabatistas).
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [A Queda](https://www.goodreads.com/book/show/27857450-a-queda) by Albert Camus.
+- Reading [A Lógica da Fé: Uma abordagem budista para encontrar certeza além de crença e dúvida](https://www.goodreads.com/book/show/52716653-a-l-gica-da-f) by Elizabeth Mattis Namgyel.
