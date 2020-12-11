@@ -1,5 +1,7 @@
 # Susana Batista
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/susanabatistas)](https://github.com/susanabatistas)
+
 ## About :woman_technologist:
 
 Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https://github.com/HuggyDigital).
