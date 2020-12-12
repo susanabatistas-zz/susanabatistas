@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
-
 # Susana Batista
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/susanabatistas)](https://www.twitter.com/susanabatistas/)
