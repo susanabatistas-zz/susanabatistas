@@ -1,5 +1,5 @@
 name: Susana Batista
 title: null
-remote_theme: susanabatistas/basico
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
   - jemoji
