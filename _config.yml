@@ -1,4 +1,5 @@
 name: Susana Batista
 title: null
+remote_theme: susanabatistas/basico
 plugins:
   - jemoji
