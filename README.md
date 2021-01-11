@@ -10,4 +10,4 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [Pandemia: Covid-19 e a reinvenção do comunismo](https://www.goodreads.com/book/show/53368848-pandemia) by Slavoj Žižek.
+- Reading [A Caminho da Luz](https://www.goodreads.com/book/show/23999161-a-caminho-da-luz) by Francisco Cândido Xavier.
