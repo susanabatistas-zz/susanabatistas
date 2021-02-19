@@ -10,4 +10,4 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [A Caminho da Luz](https://www.goodreads.com/book/show/23999161-a-caminho-da-luz) by Francisco Cândido Xavier.
+- Reading [Eu Sei por que o Pássaro Canta na Gaiola](https://www.goodreads.com/book/show/40514205-eu-sei-por-que-o-p-ssaro-canta-na-gaiola) by Maya Angelou.
