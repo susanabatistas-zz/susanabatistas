@@ -10,4 +10,4 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [Eu Sei por que o Pássaro Canta na Gaiola](https://www.goodreads.com/book/show/40514205-eu-sei-por-que-o-p-ssaro-canta-na-gaiola) by Maya Angelou.
+- Reading [O espadachim de Carvão: Volumes 1 e 2](https://www.goodreads.com/book/show/36673329-o-espadachim-de-carv-o) by Affonso Solano.
