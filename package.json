@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/susanabatistas/susanabatistas#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
+    "cheerio": "^1.0.0-rc.6",
     "request": "^2.88.2"
   }
 }
