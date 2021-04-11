@@ -10,4 +10,4 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 ## Now
 
 - Living in Feira de Santana, Brazil.
-- Reading [O espadachim de Carvão: Volumes 1 e 2](https://www.goodreads.com/book/show/36673329-o-espadachim-de-carv-o) by Affonso Solano.
+- Reading [Relações étnico-raciais, de gênero e sexualidade: perspectivas contemporâneas](https://www.goodreads.com/book/show/36650207-rela-es-tnico-raciais-de-g-nero-e-sexualidade) by Aparecida de Jesus Ferreira.
