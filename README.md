@@ -10,3 +10,7 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
+
+### Last 5 Books I've Read
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
