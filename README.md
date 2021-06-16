@@ -7,7 +7,6 @@
 
 Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https://github.com/HuggyDigital).
 
-## Now
-
-- Living in Feira de Santana, Brazil.
-- Reading [Relações étnico-raciais, de gênero e sexualidade: perspectivas contemporâneas](https://www.goodreads.com/book/show/36650207-rela-es-tnico-raciais-de-g-nero-e-sexualidade) by Aparecida de Jesus Ferreira.
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
