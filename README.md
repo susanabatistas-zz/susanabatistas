@@ -10,7 +10,7 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [20th Century Boys, Volume 05 (20th Century Boys, #5)](https://www.goodreads.com/review/show/4061933857?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️5)
-- [Relações étnico-raciais, de gênero e sexualidade: perspectivas contemporâneas](https://www.goodreads.com/review/show/3936931540?utm_medium=api&utm_source=rss) by Aparecida de Jesus Ferreira (⭐️3.82)
+- [Relações étnico-raciais, de gênero e sexualidade: perspectivas contemporâneas](https://www.goodreads.com/review/show/3936931540?utm_medium=api&utm_source=rss) by Aparecida de Jesus Ferreira (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read
