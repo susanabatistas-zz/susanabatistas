@@ -9,7 +9,6 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Flores para Algernon](https://www.goodreads.com/review/show/4180583447?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐️4.47)
 - [20th Century Boys, Volume 05 (20th Century Boys, #5)](https://www.goodreads.com/review/show/4061933857?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️5)
 <!-- GOODREADS-LIST:END -->
 
