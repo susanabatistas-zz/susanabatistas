@@ -9,6 +9,7 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Autobiografia de um super-herói](https://www.goodreads.com/review/show/4256117060?utm_medium=api&utm_source=rss) by Alexandre Barbosa de Souza (⭐️3.5)
 - [20th Century Boys, Volume 05 (20th Century Boys, #5)](https://www.goodreads.com/review/show/4061933857?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️5)
 <!-- GOODREADS-LIST:END -->
 
