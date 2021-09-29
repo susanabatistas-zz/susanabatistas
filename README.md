@@ -9,8 +9,8 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [O Sofista](https://www.goodreads.com/review/show/4261116427?utm_medium=api&utm_source=rss) by Plato (⭐️3.29)
 - [20th Century Boys, Volume 06 (20th Century Boys, #6)](https://www.goodreads.com/review/show/4258242148?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️4)
-- [Autobiografia de um super-herói](https://www.goodreads.com/review/show/4256117060?utm_medium=api&utm_source=rss) by Alexandre Barbosa de Souza (⭐️3.5)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read
