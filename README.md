@@ -15,9 +15,9 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 
 ### Last 5 Books I've Read
 <!-- GOODREADS-READ-LIST:START -->
-- [20th Century Boys, Volume 05 (20th Century Boys, #5)](https://www.goodreads.com/review/show/4061933857?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐⭐)
-- [Flores para Algernon](https://www.goodreads.com/review/show/4180583447?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐⭐⭐⭐⭐)
-- [Relações étnico-raciais, de gênero e sexualidade: perspectivas contemporâneas](https://www.goodreads.com/review/show/3936931540?utm_medium=api&utm_source=rss) by Aparecida de Jesus Ferreira (⭐⭐⭐⭐)
-- [20th Century Boys, Volume 04 (20th Century Boys, #4)](https://www.goodreads.com/review/show/4050445516?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [20th Century Boys, Volume 03 (20th Century Boys, #3)](https://www.goodreads.com/review/show/4008016584?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [Fortaleza Digital](https://www.goodreads.com/review/show/3045669438?utm_medium=api&utm_source=rss) by Dan Brown (⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 23 (Fullmetal Alchemist, #23)](https://www.goodreads.com/review/show/3895657214?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [A Caminho da Luz](https://www.goodreads.com/review/show/3761968769?utm_medium=api&utm_source=rss) by Francisco Cândido Xavier (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 7 (Fullmetal Alchemist, #7)](https://www.goodreads.com/review/show/3844327749?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 1](https://www.goodreads.com/review/show/3768627417?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
