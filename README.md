@@ -10,7 +10,7 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [O Sofista](https://www.goodreads.com/review/show/4261116427?utm_medium=api&utm_source=rss) by Plato (⭐️3.29)
-- [20th Century Boys, Volume 07 (20th Century Boys, #7)](https://www.goodreads.com/review/show/4276797475?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️5)
+- [20th Century Boys, Volume 10 (20th Century Boys, #10)](https://www.goodreads.com/review/show/4285210802?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️5)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read
