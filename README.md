@@ -9,8 +9,8 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Berserk, Volume 01 (Berserk, #01)](https://www.goodreads.com/review/show/4333519278?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐️4.39)
 - [1984](https://www.goodreads.com/review/show/4326550423?utm_medium=api&utm_source=rss) by George Orwell (⭐️4)
-- [21st Century Boys, Volume 01 (21st Century Boys, #1)](https://www.goodreads.com/review/show/4326543347?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️3.67)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read
