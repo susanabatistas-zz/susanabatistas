@@ -9,7 +9,8 @@ Hi there! I'm a developer from Brazil, currently working [@HuggyDigital](https:/
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Berserk, Volume 01 (Berserk, #01)](https://www.goodreads.com/review/show/4333519278?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐️4.39)
+- [Berserk, Volume 04 (Berserk, #04)](https://www.goodreads.com/review/show/4343139530?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐️4.62)
+- [Ensaios sobre racismos: pensamentos de fronteira](https://www.goodreads.com/review/show/4341703461?utm_medium=api&utm_source=rss) by Emanuel Fonseca Lima (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read
